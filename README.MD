@@ -46,9 +46,9 @@
 
 ## 4. 실습 방법
 
-### https://my-json-server.typicode.com/Dhyunlee/example-restApi 여기 주소에<br> 들어가서  
-### Available resources 항목을 선택하면 json 페이지 형태로 출력된 결과물을<br> 
-### 볼 수 있다.
+### https://my-json-server.typicode.com/Dhyunlee/example-restApi 여기 주소에<br> 
+### 들어가서 Available resources 항목을 선택하면 json 페이지 형태로 출력된 <br> 
+### 결과물을 볼 수 있다.
 
 - example json
   url: https://my-json-server.typicode.com/Dhyunlee/example-restApi/db
