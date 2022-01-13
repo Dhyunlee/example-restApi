@@ -1,6 +1,6 @@
-# JSONPlaceholder에서 서버 생성후, json 형식의 api 사용하기
+## JSONPlaceholder에서 서버 생성후, json 형식의 api 사용하기
 
-## 진행 순서
+## [진행 순서]
 ## 1. 아래 주소로 들어간다.
 ## 주소: https://my-json-server.typicode.com/
 
