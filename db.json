@@ -1,23 +1,32 @@
-[
-    {
-        "postId": 1,
-        "id": 1,
-        "name": "donghyun12",
-        "email": "donghyun12@gmail.com",
-        "body": "즐거운 코딩을 합시다."
-    },
-    {
-        "postId": 2,
-        "id": 2,
-        "name": "angeli12",
-        "email": "angeli12@example.com",
-        "body": "오늘 하루도 즐겁게!"
-    },
-    {
-        "postId": 3,
-        "id": 3,
-        "name": "q2wsky11",
-        "email": "q2wsky11@example.com",
-        "body": "해피 코딩 ~~"
-    }
-]
+{
+  "posts":  [
+        {
+            "postId": 1,
+            "id": 1,
+            "name": "donghyun12",
+            "email": "donghyun12@gmail.com",
+            "body": "즐거운 코딩을 합시다."
+        },
+        {
+            "postId": 2,
+            "id": 2,
+            "name": "angeli12",
+            "email": "angeli12@example.com",
+            "body": "오늘 하루도 즐겁게!"
+        },
+        {
+            "postId": 3,
+            "id": 3,
+            "name": "q2wsky11",
+            "email": "q2wsky11@example.com",
+            "body": "해피 코딩 ~~"
+        }
+    ],
+    "comments": [
+        { "id": 1, "postId": 1, "body": "비가 내리는 날" },
+        { "id": 2, "postId": 1, "body": "그날은 좀 아니야" }
+      ],
+      "profile": {
+        "name": "Dhyunlee"
+      }
+}
